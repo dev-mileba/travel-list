@@ -1,70 +1,105 @@
-# Getting Started with Create React App
+<div id="top">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- HEADER STYLE: CLASSIC -->
+<div align="center">
 
-## Available Scripts
 
-In the project directory, you can run:
+# TRAVEL-LIST
 
-### `npm start`
+<em>Pack Smart, Travel Better, Enjoy Every Journey</em>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- BADGES -->
+<img src="https://img.shields.io/github/last-commit/dev-mileba/travel-list?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+<img src="https://img.shields.io/github/languages/top/dev-mileba/travel-list?style=flat&color=0080ff" alt="repo-top-language">
+<img src="https://img.shields.io/github/languages/count/dev-mileba/travel-list?style=flat&color=0080ff" alt="repo-language-count">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<em>Built with the tools and technologies:</em>
 
-### `npm test`
+<img src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=JSON&logoColor=white" alt="JSON">
+<img src="https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white" alt="npm">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/CSS-663399.svg?style=flat&logo=CSS&logoColor=white" alt="CSS">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</div>
+<br>
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Table of Contents
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [Testing](#testing)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Overview
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Travel List is a powerful React-based application designed to streamline your travel planning experience, allowing users to manage and display their travel-related information effortlessly.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Why Travel List?**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This project aims to simplify the packing process while enhancing user engagement. The core features include:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- 🎒 **Dynamic Item Management:** Easily add, delete, and toggle items for efficient organization.
+- 📊 **Real-Time Statistics:** Track your packing progress and stay motivated with instant feedback.
+- 📱 **PWA Capabilities:** Enjoy a native app-like experience that enhances accessibility and user engagement.
+- 🎨 **Responsive Design:** A cohesive user interface that looks great on any device.
+- 🔒 **Robust Dependency Management:** Ensures consistent application behavior across environments, minimizing potential issues.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Getting Started
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Prerequisites
 
-### Code Splitting
+This project requires the following dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **Programming Language:** JavaScript
+- **Package Manager:** Npm
 
-### Analyzing the Bundle Size
+### Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Build travel-list from the source and intsall dependencies:
 
-### Making a Progressive Web App
+1. **Clone the repository:**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+    ```sh
+    ❯ git clone https://github.com/dev-mileba/travel-list
+    ```
 
-### Advanced Configuration
+2. **Navigate to the project directory:**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+    ```sh
+    ❯ cd travel-list
+    ```
 
-### Deployment
+3. **Install the dependencies:**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+**Using [npm](https://www.npmjs.com/):**
 
-### `npm run build` fails to minify
+```sh
+❯ npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Usage
+
+Run the project with:
+
+**Using [npm](https://www.npmjs.com/):**
+
+```sh
+npm start
+```
+
+
+
+---
+
+<div align="left"><a href="#top">⬆ Return</a></div>
+
+---
